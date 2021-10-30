@@ -1,0 +1,24 @@
+{
+    "prefix": "PREFİX",
+    "sahip": "SAHİP İD",
+    "token": "TOKEN",
+
+    "roles": {
+        "whitelist": "WHITELIST ROL", 
+        "staff": "YETKİLİ ROL",
+        "nonwhitelist": "KAYITSIZ ROL"
+    },
+
+    "emoji": {
+        "onay": "✅",
+        "red": "❌"
+    },
+    
+    "ekstra": {
+        "tag": "TAG",
+        "logchannels": "LOG KANALI",
+        "reklamlog": "REKLAM LOG",
+        "destekbekleme": "SESLİ DESTEK BEKLEME ODASI İD'Sİ", 
+        "ip": "SUNUCU İP"
+    }
+}
