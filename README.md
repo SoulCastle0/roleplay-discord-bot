@@ -1,4 +1,4 @@
-**[FİVEM ROLEPLAY SUNUCULARI İÇİN DİSCORD BOTU](https://discord.gg/3wXH6Vz6EP)
+[FİVEM ROLEPLAY SUNUCULARI İÇİN DİSCORD BOTU](https://discord.gg/3wXH6Vz6EP)
 =================
 * ## *YILDIZ VERMEYİ VE TAKİP ETMEYİ UNUTMAYIN !* 🤗😇
 
